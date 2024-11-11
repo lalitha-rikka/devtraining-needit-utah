@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="DELETE">
+        <caller_access/>
+        <derived_priority>100</derived_priority>
+        <description/>
+        <event_name>x_58872_needit.priorityvalue</event_name>
+        <fired_by>bussinessrule: prioritychange</fired_by>
+        <priority>100</priority>
+        <queue/>
+        <suffix>priorityvalue</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-08 09:48:46</sys_created_on>
+        <sys_id>5f3318b08331d210a503a370ceaad327</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_58872_needit.priorityvalue</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysevent_register_5f3318b08331d210a503a370ceaad327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-08 09:58:34</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sysevent_register>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>cbc2f3d21b46025865324089bd4bcbec</instance_id>
+        <instance_name>dev267554</instance_name>
+        <name>sysevent_register_5f3318b08331d210a503a370ceaad327</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register"><sysevent_register action="INSERT_OR_UPDATE"><caller_access/><derived_priority>100</derived_priority><description/><event_name>x_58872_needit.priorityvalue</event_name><fired_by>bussinessrule: prioritychange</fired_by><priority>100</priority><queue/><suffix>priorityvalue</suffix><sys_class_name>sysevent_register</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-08 09:48:46</sys_created_on><sys_id>5f3318b08331d210a503a370ceaad327</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_58872_needit.priorityvalue</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sysevent_register_5f3318b08331d210a503a370ceaad327</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-08 09:58:34</sys_updated_on><table>x_58872_needit_needit</table></sysevent_register></record_update>]]></payload>
+        <payload_hash>-360705082</payload_hash>
+        <record_name>x_58872_needit.priorityvalue</record_name>
+        <reverted_from/>
+        <source>fff657b783119210a503a370ceaad3ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-08 09:58:35</sys_created_on>
+        <sys_id>979510748331d210a503a370ceaad3d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1930b3618f30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-08 09:58:35</sys_updated_on>
+        <type>Event Registration</type>
+        <update_guid>1f9510749631d21000e21d4cfe45e0d3</update_guid>
+        <update_guid_history>1f9510749631d21000e21d4cfe45e0d3:-360705082,635398b0b531d210498acd222adbc0ea:-2046606283</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-08 10:19:13</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_register">sysevent_register</sys_db_object>
+        <sys_id>098dc8edfbc240b8bbcee6a806c19810</sys_id>
+        <sys_metadata>5f3318b08331d210a503a370ceaad327</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.priorityvalue</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">54a5547f83895210a503a370ceaad3be</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sysevent_register_5f3318b08331d210a503a370ceaad327</sys_update_name>
+        <sys_update_version display_value="sysevent_register_5f3318b08331d210a503a370ceaad327">979510748331d210a503a370ceaad3d4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-08 10:19:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
